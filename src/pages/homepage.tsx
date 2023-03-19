@@ -138,7 +138,7 @@ export default function Homepage() {
 		<>
 			<Head>
 				<title>Homepage | Share a tip</title>
-				<meta name="description" content="Made by barrybtw" />
+				<meta name="description" content="Made by barrybtw!" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
 			<main className="flex min-h-screen gap-4 flex-col items-center justify-center bg-gradient-to-b from-[#2f026d78] to-[#15162c] text-white">
